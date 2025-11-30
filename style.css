@@ -1,4 +1,4 @@
-8*{
+*{
     padding: 0;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -41,7 +41,7 @@ li{
     min-width: 100px;
     text-align: center;
     padding: 5px;
-    border-left: 1px solid rgb(220, 220, 220);
+    border-left: 1px solid rgb(120, 120, 120);
 }
 
 ul li:first-child{
