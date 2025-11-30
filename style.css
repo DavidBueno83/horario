@@ -1,4 +1,4 @@
-*{
+8*{
     padding: 0;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -60,25 +60,3 @@ ul li:first-child{
 
 
 
-
-@media (max-width:915px){
-    .table{
-    display: flex;
-    flex-direction: row;
-    font-size: 12px;
-    gap: 5px;
-    background-color: rgb(240, 240, 240);
-    padding: 10px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 5px rgb(40, 40, 40);
-    }
-
-    ul{
-    flex-direction: column;
-}
-
-    li{
-    min-width: 50px;
-}
-
-}
