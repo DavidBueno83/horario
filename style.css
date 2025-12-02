@@ -89,8 +89,8 @@ input{
     display: flex;
     width: 100px;
     border: none;
-    font-size: 18px;
-    padding: 5px 20px;
+    font-size: 16px;
+    padding: 5px 10px;
     background-color: rgb(240, 240, 240);
 }
 
