@@ -23,10 +23,10 @@ const setDay = (weekDay) => {
     if (weekDay == 'AF'){
         return "*"
     } else if (weekDay == '*'){
-        return 'abre'
-    } else if (weekDay == 'abre'){
-        return 'fecha'
-    } else if (weekDay == 'fecha'){
+        return 'A'
+    } else if (weekDay == 'A'){
+        return 'F'
+    } else if (weekDay == 'F'){
         return 'AF'
     } else {
         return 'AF'
